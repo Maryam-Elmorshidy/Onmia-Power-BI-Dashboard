@@ -106,3 +106,20 @@ Not every technique explored during development was included in the final dashbo
 ## 🙏 Acknowledgment
 
 This project was originally assigned as part of the SkillEra learning track. I expanded on the original requirements by exploring additional concepts and applying different Power BI techniques using various learning resources.
+
+## Project Demo
+
+Watch the video below to see the dashboard design, navigation, and interactive features in action.
+
+[Watch the Project Demo](https://github.com/Maryam-Elmorshidy/Onmia-Power-BI-Dashboard/blob/main/Omnia.mp4)
+
+## Dashboard File
+
+[View the Power BI Dashboard](https://github.com/Maryam-Elmorshidy/Onmia-Power-BI-Dashboard/blob/main/lec8.pbix)
+
+[Photos the Power BI Dashboard](https://github.com/Maryam-Elmorshidy/Onmia-Power-BI-Dashboard/tree/main/Photo)
+
+## Link LinkedIN
+
+[Post LinkdIN](https://www.linkedin.com/posts/maryam-abdelaziz-9592093a7_powerbi-dataanalysis-dax-ugcPost-7518359710446567424-e1j8/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7518359751295086592&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAGOFShUBWxybQmfrcDUOr8Uvhfk3eX14R00)
+
